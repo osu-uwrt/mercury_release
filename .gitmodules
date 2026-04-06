@@ -28,3 +28,9 @@
 [submodule "src/mercury_vision"]
 	path = src/mercury_vision
 	url = git@github.com:osu-uwrt/mercury_vision.git
+[submodule "src/mercury_simulator"]
+	path = src/mercury_simulator
+	url = git@github.com:osu-uwrt/mercury_simulator.git
+[submodule "src/mercury_dependencies/chameleon_tf"]
+	path = src/mercury_dependencies/chameleon_tf
+	url = git@github.com:osu-uwrt/chameleon_tf.git
